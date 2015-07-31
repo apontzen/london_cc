@@ -3,7 +3,7 @@ London code of conduct
 
 This code of conduct was originally designed for an astronomy conference
 in London, adapted by Andrew Pontzen and Hiranya Peiris from a document by
-[Software Carpentary](http://software-carpentry.org/conduct.html),
+[Software Carpentry](http://software-carpentry.org/conduct.html),
 which itself derives from original Creative Commons documents by
 [PyCon](https://us.pycon.org/2013/about/code-of-conduct/)
 and [Geek Feminism](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy).
