@@ -1,15 +1,8 @@
 London code of conduct
 ======================
 
-##  Content
+[Code of conduct](codeofconduct.md): a concise code of conduct which you are free to use and modify. Please add your final edited version to the resources below.
 
-*acknowledgement.md*: license and acknowledgements.
+[License and acknowledgements](acknowledgement.md): who/how to acknowledge the use of this code of conduct.
 
-*codeofconduct.md*: the actual code of conduct.
-
-*resources.md*: further resources.
-
-##  How to use
-
-Feel free to use the code of conduct (for example by including it on the website of a conference), but please also copy and include the acknowledgements, to give credit to the original authors and the documents that inspired this. 
-
+[Resources for further documentation](resources.md): examples of codes of conduct, and further resources.  
