@@ -6,3 +6,5 @@ London code of conduct
 [License and acknowledgements](acknowledgement.md): who/how to acknowledge the use of this code of conduct.
 
 [Resources for further documentation](resources.md): examples of codes of conduct, and further resources.  
+
+Released under Creative Commons license.
