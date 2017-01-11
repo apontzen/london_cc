@@ -9,6 +9,7 @@ Examples of codes of conduct:
 - [Collision conference](https://collisionconf.com/anti-harassment-policy)
 - [Gpu Tech events](http://www.gputechconf.com/conference-anti-harassment-policy)
 - [Cosmo21 conference](http://cosmo21.cosmostat.org/home/code-of-conduct)
+- [Australian Bioinformatics and Computational Biology Society (ABACBS)](http://www.abacbs.org/s/ABACBS-Code-of-Conduct.pdf)
 - *add yours*
  
 Other useful resources:
