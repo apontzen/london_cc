@@ -1,7 +1,7 @@
 
 Examples of codes of conduct:
 - [Cosmostatistics Initiative event](http://iaacoin.wixsite.com/crp2016/conduct)
-- [Google coorporate events](https://www.google.com/events/policy/anti-harassmentpolicy.html)
+- [Google corporate events](https://www.google.com/events/policy/anti-harassmentpolicy.html)
 - [Linux Foundation events](https://events.linuxfoundation.org/code-of-conduct)
 - [Geekfeminism recommendations](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 - [ADA initiative recommendations](https://adainitiative.org/continue-our-work/conference-policies/)
