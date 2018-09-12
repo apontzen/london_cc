@@ -12,6 +12,7 @@ Examples of codes of conduct:
 - [Australian Bioinformatics and Computational Biology Society (ABACBS)](http://www.abacbs.org/s/ABACBS-Code-of-Conduct.pdf)
 - [ESO Code of Conduct](http://www.eso.org/sci/meetings/CodeofConductWorkshops.html) 
   - Also used by [34th IAP Conference](http://www.iap.fr/vie_scientifique/colloques/Colloque_IAP/2018/index.html)
+- [Solar Dynamics Observatory 2018 Workshop](https://register-as.oma.be/sdo2018/code_of_conduct.php)
 - *add yours*
  
 Other useful resources:
