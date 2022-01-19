@@ -15,6 +15,9 @@ Examples of codes of conduct:
 - [Solar Dynamics Observatory 2018 Workshop](https://register-as.oma.be/sdo2018/code_of_conduct.php)
 - [Inhomogeneous Cosmologies 2017](https://cosmo.torun.pl/CosmoTorun17) - [github fork](https://github.com/broukema/london_cc)
 - [Interstellar Institute](https://interstellarinstitute.org/programs/so-star/codeofconduct.html)
+- [2020 VLTI school](https://vlti2020.sciencesconf.org/)
+- [The 10th VLTI school 2021](https://vltischool2021.sciencesconf.org/resource/page/id/8)
+- [7th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy](https://indico.icc.ub.edu/event/46/page/157-code-of-conduct)
 - *add yours*
  
 Other useful resources:
