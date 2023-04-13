@@ -18,6 +18,7 @@ Examples of codes of conduct:
 - [2020 VLTI school](https://vlti2020.sciencesconf.org/)
 - [The 10th VLTI school 2021](https://vltischool2021.sciencesconf.org/resource/page/id/8)
 - [7th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy](https://indico.icc.ub.edu/event/46/page/157-code-of-conduct)
+- [The 11th VLTI school 2023](https://vltischool2023.konkoly.hu/code-of-conduct/)
 - *add yours*
  
 Other useful resources:
